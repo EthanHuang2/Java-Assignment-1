@@ -1,0 +1,15 @@
+Printable Prescription
+Patient Name: Jane Doe
+Date of Birth: 2005-01-01
+Diagnose: Acute Disease
+Medication Treatment Plan:
+Medication Treatment Plan:
+Diagnosis: Acute Disease
+Dosage Frequency: 2 times per day
+Duration: 7 days
+
+Rx:
+Daily Dosage: 2 times/day
+Duration: 7 days
+Fasting Required: No
+Follow Up Date: N/A
